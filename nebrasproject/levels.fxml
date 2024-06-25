@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="335.0" style="-fx-background-color: #fffaf0;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nebrasproject.LevelsController">
+   <children>
+      <VBox alignment="CENTER" layoutX="64.0" layoutY="87.0" prefHeight="438.0" prefWidth="207.0" spacing="20.0">
+         <children>
+            <ImageView fitHeight="140.0" fitWidth="118.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../Downloads/msg1252832815-8177.png" />
+               </image>
+            </ImageView>
+            <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="145.0" style="-fx-background-color: #eec2b9; -fx-border-width: 1.75; -fx-border-color: #000000; -fx-border-radius: 20; -fx-background-radius: 20;" text="المستوى الأول" textAlignment="CENTER">
+               <font>
+                  <Font name="Dubai Medium" size="16.0" />
+               </font>
+               
+            </Button>
+            <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="145.0" style="-fx-background-color: #81d9e3; -fx-border-width: 1.75; -fx-border-color: #000000; -fx-border-radius: 20; -fx-background-radius: 20;" text="المستوى الثاني" textAlignment="CENTER">
+               <font>
+                  <Font name="Dubai Medium" size="16.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="145.0" style="-fx-background-color: #f3d078; -fx-border-width: 1.75; -fx-border-color: #000000; -fx-border-radius: 20; -fx-background-radius: 20;" text="المستوى الثالث" textAlignment="CENTER">
+               <font>
+                  <Font name="Dubai Medium" size="16.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="145.0" style="-fx-background-color: #ceb4d1; -fx-border-width: 1.75; -fx-border-color: #000000; -fx-border-radius: 20; -fx-background-radius: 20;" text="المستوى الرابع" textAlignment="CENTER">
+               <font>
+                  <Font name="Dubai Medium" size="16.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="145.0" style="-fx-background-color: #57C5B6; -fx-border-width: 1.75; -fx-border-color: #000000; -fx-border-radius: 20; -fx-background-radius: 20;" text="المستوى الخامس" textAlignment="CENTER">
+               <font>
+                  <Font name="Dubai Medium" size="16.0" />
+               </font>
+            </Button>
+         </children>
+      </VBox>
+      <Button fx:id="back" layoutX="31.0" layoutY="31.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="34.0" style="-fx-background-color: #f3d078; -fx-border-width: 1.75; -fx-border-color: BLACK; -fx-background-radius: 10; -fx-border-radius: 10;" text="&lt;" />
+   </children>
+</AnchorPane>

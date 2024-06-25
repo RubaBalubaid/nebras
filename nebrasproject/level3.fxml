@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.media.MediaView?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="335.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nebrasproject.level3Controller">
+   <children>
+      <Pane prefHeight="600.0" prefWidth="335.0" style="-fx-background-color: #c9eded; -fx-border-color: white; -fx-border-width: 10;">
+         <children>
+            <Label layoutX="168.0" layoutY="23.0" text="ديني" textFill="#c16969">
+               <font>
+                  <Font name="Dubai Regular" size="58.0" />
+               </font>
+            </Label>
+            <Button fx:id="fx4" layoutX="78.0" layoutY="369.0" mnemonicParsing="false" onAction="#butfx4" prefHeight="50.0" prefWidth="180.0" style="-fx-background-color: #eec2b9; -fx-border-color: white; -fx-border-radius: 2; -fx-border-width: 2; -fx-background-radius: 20; -fx-border-radius: 20;" text="خديجة بنت خويلد" textFill="WHITE">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Button>
+            <Button fx:id="fx5" layoutX="78.0" layoutY="427.0" mnemonicParsing="false" onAction="#butfx5" prefHeight="50.0" prefWidth="180.0" style="-fx-background-color: #eec2b9; -fx-border-color: white; -fx-border-radius: 2; -fx-border-width: 2; -fx-background-radius: 20; -fx-border-radius: 20;" text="زينب بنت جحش" textFill="WHITE">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Button>
+            <Button fx:id="fx6" layoutX="78.0" layoutY="485.0" mnemonicParsing="false" onAction="#butfx6" prefHeight="50.0" prefWidth="180.0" style="-fx-background-color: #eec2b9; -fx-border-color: white; -fx-border-radius: 2; -fx-border-width: 2; -fx-background-radius: 20; -fx-border-radius: 20;" text="عائشة بنت الصديق" textFill="WHITE">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Button>
+            <ImageView fitHeight="149.0" fitWidth="135.0" layoutX="50.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../media/rabbit.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="fxt" layoutX="15.0" layoutY="546.0" mnemonicParsing="false" onAction="#butV" prefHeight="33.0" prefWidth="70.0" style="-fx-background-color: #f3d078; -fx-border-color: black; -fx-border-radius: 2; -fx-border-width: 2; -fx-background-radius: 0; -fx-border-radius: 0;" text="التالي " textFill="#101010">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </Button>
+            <MediaView fx:id="mv1" fitHeight="170.0" fitWidth="275.0" layoutX="31.0" layoutY="130.0" />
+            <ImageView fx:id="fxv" fitHeight="50.0" fitWidth="45.0" layoutX="145.0" layoutY="310.0" onMousePressed="#butfxv" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../media/play%20icon.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="back" layoutX="24.0" layoutY="23.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="34.0" style="-fx-background-color: #eec2b9; -fx-border-width: 1.75; -fx-border-color: #ffffff; -fx-background-radius: 10; -fx-border-radius: 10;" text="&lt;" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

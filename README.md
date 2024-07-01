@@ -1,3 +1,4 @@
+![Project Logo](https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Logo.png)<br> <br>
 # Nebras
 
 The idea of Nebras application is a fun and educational game for kids it aims

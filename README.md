@@ -13,6 +13,10 @@ along with his/her account in the game’s database.
 Java, JavaFx
 
 
+## Documentation
+[Demo](https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4)
+[Report](https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Report.pdf)
+
 ## Authors
 - Ruba Balubaid
 - Jenan Mustafa

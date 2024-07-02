@@ -13,9 +13,9 @@ points will be added to the user’s record. Also, the user’s process is saved
 along with his/her account in the game’s database.
 <br>
 
-## Programming Language
-Java, JavaFx
-<br>
+## Tools
+<b>Programming Language:</b>Java, JavaFx <br>
+<b>Database:</b>MySQL <br>
 
 ## Documentation
 [Demo](https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4)<br>

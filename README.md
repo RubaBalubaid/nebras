@@ -18,12 +18,26 @@ along with his/her account in the game’s database.
 <b>Framework:</b> Hibernate <br>
 <b>Database:</b> MySQL <br>
 
+## Demo 
+<div class="video-container">
+            <video width="720" controls>
+                <source src="https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
 
 ## Documentation
 [Demo](https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4)<br>
 [Report](https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Report.pdf)
 <br>
 
+<div class="video-container">
+            <video width="720" controls>
+                <source src="nebrasTeamProject.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        
 ## Authors
 - Ruba Balubaid
 - Jenan Mustafa

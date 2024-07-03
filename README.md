@@ -18,13 +18,16 @@ along with his/her account in the game’s database.
 <b>Framework:</b> Hibernate <br>
 <b>Database:</b> MySQL <br>
 
+<video src="nebrasTeamProject.mp4" controls></video><br>
 
 ## Documentation
 [Demo](https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4)<br>
 [Report](https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Report.pdf)
 <br>
 
-        
+<video src="https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4" controls poster="https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Logo.png"></video>
+<br>
+    
 ## Authors
 - Ruba Balubaid
 - Jenan Mustafa

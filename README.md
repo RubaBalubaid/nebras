@@ -3,7 +3,7 @@
 <br>
 
 # Nebras
-
+<div class="justified">
 The idea of Nebras application is a fun and educational game for kids it aims
 to increase kids’ knowledge about several interesting topics. it will contain
 3 categories (Math, geography, and religion) each category will have a
@@ -15,6 +15,7 @@ along with his/her account in the game’s database.
 
 ## Tools
 <b>Programming Language:</b> Java, JavaFx <br>
+<b>Framework:</b> Hibernate <br>
 <b>Database:</b> MySQL <br>
 
 ## Documentation
@@ -28,3 +29,5 @@ along with his/her account in the game’s database.
 - Dana Algamdi
 - Farah Alhasani
 - Ahlam Almatrafi
+
+</div>

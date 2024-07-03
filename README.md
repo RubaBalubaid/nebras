@@ -1,4 +1,23 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .justified {
+            text-align: justify;
+        }
+        .video-container {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+    </style>
+    </head>
+            <body>
 <img src="https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Logo.png" alt="Project Logo" width="200"/>
 <br>
 
@@ -46,3 +65,5 @@ along with his/her account in the game’s database.
 - Ahlam Almatrafi
 
 </div>
+</body>
+</html>

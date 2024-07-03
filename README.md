@@ -18,6 +18,12 @@ along with his/her account in the game’s database.
 <b>Framework:</b> Hibernate <br>
 <b>Database:</b> MySQL <br>
 
+## Demo 
+<div align="center">
+  <iframe width="560" height="315" src="https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
 ## Documentation
 [Demo](https://github.com/RubaBalubaid/nebras/blob/main/nebrasTeamProject.mp4)<br>
 [Report](https://github.com/RubaBalubaid/nebras/blob/main/Nebras%20Report.pdf)
